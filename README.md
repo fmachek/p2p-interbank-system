@@ -20,8 +20,6 @@ This project simulates a node in a P2P (Peer-to-peer) interbank system.
 - [Logging](#logging)
    * [Log file example](#log-file-example)
 - [Sources - Research](#sources---research)
-- [Sources - ChatGPT](#sources---chatgpt)
-- [Old project sources](#old-project-sources)
 
 ## Requirements
 Please ensure that your PC meets the following requirements:
